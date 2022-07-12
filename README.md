@@ -3,6 +3,7 @@
 ## PHARMACOGENOMICS OF HUMAN LEUKOCYTES ANTIGEN (HLA) VARIANTS IN 4 ASIAN GROUPS 
 In the final stage of the HackBio Genonics Workshop, I worked on a project in the field of Precision Medicine.
 The task was to compare HLA variations between 4 Asian population groups (Dai, Han, Southern Han Chinese, and Vietnamese) in the 1000 genomes database usind  Principal Components Analysis (PCA), Multidimensional Scaling (MDS) Analysis, and Linkage Disequilibrium (LD). However, due to lack of phenotype data, LD was not performed.
+See full project report at https://github.com/LuminIz/HackBio_Genomics_Workshop-Project/blob/main/PHARMACOGENOMICS%20OF%20HLA%20VARIANTS%20IN%204%20ASIAN%20GROUPS.pdf
 
 ### Technical Information
 PCA and MDS weere carried out in Linux pipeline using PLINK. PCA and MDS plots were generated in RStudoio (see plots in Rplot files above). For further information
